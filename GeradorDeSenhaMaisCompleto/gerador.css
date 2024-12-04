@@ -1,0 +1,38 @@
+
+
+
+.center {
+    text-align: center;
+}
+
+
+header {
+    background-color: #8a6c43;;
+    color: rgb(255,255,255);
+}
+
+body{
+    background-color: #8a6c43;
+}
+
+.icenter {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.space {
+    margin-left: 10px;
+}
+
+.but{
+    background-color: #4e3b20;
+    color: aliceblue;
+    width: 168px;
+    height: 30px;
+}
+
+.numtam {
+    width: 168px;
+    height: 30px;
+}
